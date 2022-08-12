@@ -1,0 +1,51 @@
+---
+settings:
+  name: AFF and FAS Family
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+  langs: ja-jp,us-en,zh-cn,zh-tw,ko-kr
+sidebar:
+  entries:
+  - title: AFF および FAS のドキュメント
+    url: "/index.html"
+product-family:
+  search: clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod
+  sidebarlinks:
+  - title: すべて
+    tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
+    class: active
+  - title: はじめに
+    tags: tag_get_started
+  - title: システムハードウェア
+    tags: tag_storage_hardware
+  - title: システムのアップグレード
+    tags: tag_storage_upgrade
+  tiles:
+  - title: AFF およびFAS ファミリーについて説明します
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: AFF およびFAS ファミリーのストレージシステムについて説明します。
+    tags: all, tag_get_started
+  - title: AFF およびFAS のインストールとメンテナンス
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-systems/index.html
+    summary: AFF 、FAS 、またはオールSANアレイシステムをインストールして保守します。
+    tags: all, tag_storage_hardware
+  - title: AFF とFAS のアップグレード
+    icon: "./media/upgrade.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
+    summary: AFF およびFAS ストレージシステムをアップグレードします。
+    tags: all, tag_storage_upgrade
+  - title: クラスタとストレージスイッチ
+    icon: "./media/switch.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
+    summary: クラスタスイッチとストレージスイッチを設置、アップグレード、および保守します。
+    tags: all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
+    summary: MetroCluster 構成をインストールおよびアップグレードまたは拡張し、ディザスタリカバリを実行する。
+    tags: all, tag_storage_upgrade
