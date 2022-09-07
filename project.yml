@@ -24,7 +24,7 @@ product-family:
   - title: システムのアップグレード
     tags: tag_storage_upgrade
   tiles:
-  - title: AFF およびFAS ファミリーについて説明します
+  - title: AFF とFAS について説明します
     icon: "./media/family.png"
     url: intro-family.html
     summary: AFF およびFAS ファミリーのストレージシステムについて説明します。
