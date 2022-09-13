@@ -49,3 +49,8 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
     summary: MetroCluster 構成をインストールおよびアップグレードまたは拡張し、ディザスタリカバリを実行する。
     tags: all, tag_storage_upgrade
+  - title: ONTAP のドキュメント
+    icon: "./media/family.png"
+    url: https://docs.netapp.com/us-en/ontap-family/index.html
+    summary: ONTAP のドキュメントで、ONTAP のセットアップ方法、クライアントのストレージのプロビジョニング方法、およびSystem ManagerまたはCLIを使用したデータの保護と管理方法について説明しています。
+    tags: all, tag_storage_management
