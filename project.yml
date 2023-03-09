@@ -1,6 +1,7 @@
 ---
 settings:
   name: AFF and FAS Family
+  search: ontap-systems,ontap-systems-upgrade,ontap-systems-switches,ontap-metrocluster
   internal:
     pdf_enabled: false
   prod:
@@ -12,7 +13,6 @@ sidebar:
   - title: AFF および FAS のドキュメント
     url: "/index.html"
 product-family:
-  search: clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod
   sidebarlinks:
   - title: すべて
     tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
@@ -49,8 +49,3 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
     summary: MetroCluster 構成をインストールおよびアップグレードまたは拡張し、ディザスタリカバリを実行する。
     tags: all, tag_storage_upgrade
-  - title: ONTAP のドキュメント
-    icon: "./media/family.png"
-    url: https://docs.netapp.com/us-en/ontap-family/index.html
-    summary: ONTAP のドキュメントで、ONTAP のセットアップ方法、クライアントのストレージのプロビジョニング方法、およびSystem ManagerまたはCLIを使用したデータの保護と管理方法について説明しています。
-    tags: all, tag_storage_management
