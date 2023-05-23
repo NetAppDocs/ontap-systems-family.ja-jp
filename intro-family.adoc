@@ -24,7 +24,7 @@ NVMeベースのAFF システムは、仮想環境向けに構築された堅牢
 
 ハイパフォーマンス、低レイテンシ、信頼性を必要とするVDIやデータベースなど、さまざまなワークロードに対応できるオールフラッシュFAS 構成は、ビジネスクリティカルなアプリケーションに最適です。
 
-https://["AFF Aシリーズのデータシートをご覧ください"^] および https://["AFF Cシリーズのデータシートをご覧ください"^]。
+https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["AFF Aシリーズのデータシートをご覧ください"^] および https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["AFF Cシリーズのデータシートをご覧ください"^]。
 
 
 
@@ -34,7 +34,7 @@ FAS ハイブリッドフラッシュシステムは、SANとNASの共有/統合
 
 FAS ハイブリッドフラッシュシステムは、可用性に優れたハードウェアを搭載し、フラッシュと従来の回転式ドライブの理想的な組み合わせを組み合わせることで、ワークロードのニーズに対費用効果の高い方法で応えることができます。バックアップと保持、一般的なビジネスアプリケーションの統合、分散コンテンツに最適です。
 
-962fcdf0e3f30c90386f558dada69895
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["FAS のデータシートをご覧ください"^]
 
 
 
@@ -44,7 +44,7 @@ AFF およびFAS ストレージシステムにONTAPのMetroCluster 機能を組
 
 MetroCluster は、標準的なデータレプリケーションソリューションとは異なり、ホスト環境とシームレスに連携して継続的なデータ可用性を実現します。複雑なフェイルオーバースクリプトを作成して管理する必要はありません。
 
-https://["MetroCluster の詳細については、こちらをご覧ください"^]
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["MetroCluster の詳細については、こちらをご覧ください"^]
 
 
 
@@ -52,13 +52,13 @@ https://["MetroCluster の詳細については、こちらをご覧ください
 
 ONTAP データ管理ソフトウェアは、AFF およびFAS システムを強化するクラスタストレージソフトウェアです。AFF ノードとFAS ノードを24個までサポートするグローバルネームスペースをすべてのタイプで使用できるONTAP ソフトウェアはユニファイドストレージ（ブロックとファイル）をサポートしているため、ONTAP System Manager GUIで管理可能なワークロードを大幅に統合することができます。
 
-https://["ONTAP のデータシートをご覧ください"^]。
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["ONTAP のデータシートをご覧ください"^]。
 
 
 
 == を参照してください。
 
-* https://["AFF およびFAS のドキュメント"^]
-* https://["MetroCluster のドキュメント"^]
-* https://["ONTAP のドキュメント"^]
+* https://docs.netapp.com/us-en/ontap-systems/index.html["AFF およびFAS のドキュメント"^]
+* https://docs.netapp.com/us-en/ontap-metrocluster/index.html["MetroCluster のドキュメント"^]
+* https://docs.netapp.com/us-en/ontap/index.html["ONTAP のドキュメント"^]
 
