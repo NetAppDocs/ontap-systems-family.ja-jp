@@ -10,7 +10,7 @@ settings:
   langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
 sidebar:
   entries:
-  - title: AFF および FAS のドキュメント
+  - title: ONTAPハードウェアシステムのドキュメント
     url: "/index.html"
 product-family:
   sidebarlinks:
@@ -24,20 +24,20 @@ product-family:
   - title: システムのアップグレード
     tags: tag_storage_upgrade
   tiles:
-  - title: AFF とFAS について説明します
+  - title: ONTAPハードウェアシステムの詳細
     icon: "./media/family.png"
     url: intro-family.html
-    summary: AFF およびFAS ファミリーのストレージシステムについて説明します。
+    summary: ONTAPハードウェアシステムについて説明します。
     tags: all, tag_get_started
-  - title: AFF およびFAS のインストールとメンテナンス
+  - title: インストールとメンテナンス
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap-systems/index.html
-    summary: AFF 、FAS 、またはオールSANアレイシステムをインストールして保守します。
+    summary: ONTAPハードウェアシステムの設置とメンテナンスを行います。
     tags: all, tag_storage_hardware
-  - title: AFF とFAS のアップグレード
+  - title: アップグレード
     icon: "./media/upgrade.png"
     url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
-    summary: AFF およびFAS ストレージシステムをアップグレードします。
+    summary: ONTAPハードウェアシステムをアップグレードします。
     tags: all, tag_storage_upgrade
   - title: クラスタとストレージスイッチ
     icon: "./media/switch.png"
