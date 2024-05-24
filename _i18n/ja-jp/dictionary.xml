@@ -59,7 +59,6 @@
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">ネットアップのONTAPハードウェアシステムは、管理が容易で高速かつセキュアなストレージを必要とするエンタープライズアプリケーション向けに設計されており、エンタープライズクラスの信頼性と継続的なデータアクセスを備えています。</block>
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">ネットアップのONTAPハードウェアシステムには、オールフラッシュ（AFF）構成とハイブリッドフラッシュとHDDのみ（FAS）構成があり、パフォーマンス、容量、コストの各要件に最適なストレージメディアの組み合わせを選択できます。</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">さまざまなモデルを組み合わせてクラスタを構成し、同じストレージシステムで混在ワークロードを実行したり、最新テクノロジを搭載した新世代のストレージを追加して環境を構築したりできます。</block>
-  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">オールSANアレイ（ASA）システム</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetAppオールフラッシュSANアレイ（ASA）は、SAN専用のシンプルなエクスペリエンスを提供し、FCPまたはiSCSIプロトコルを使用して、エンタープライズのミッションクリティカルなデータベースやその他のSANワークロードに継続的なデータ可用性を提供します。</block>
   <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">ASAのデータシートを読む</block>
   <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
@@ -72,4 +71,5 @@
   <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">ONTAPハードウェアシステムの設置とメンテナンスを行います。</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">アップグレード</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">ONTAPハードウェアシステムをアップグレードします。</block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">オールフラッシュSANアレイ（ASA）システム</block>
 </blocks>

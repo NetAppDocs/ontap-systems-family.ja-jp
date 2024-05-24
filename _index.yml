@@ -1,0 +1,41 @@
+---
+product-family:
+  title: ONTAPハードウェアシステムのドキュメント
+  lead: ネットアップのONTAP AFF、FAS、ASAハードウェアストレージシステムは、シンプルで管理しやすい、エンタープライズクラスの信頼性を備えたオールフラッシュストレージを必要とする広帯域アプリケーション向けに、ストレージとアプリケーションデータの管理サービスを提供します。
+  summary: ネットアップのONTAP AFF、FAS、ASAハードウェアストレージシステムは、シンプルで管理しやすい、エンタープライズクラスの信頼性を備えたオールフラッシュストレージを必要とする広帯域アプリケーション向けに、ストレージとアプリケーションデータの管理サービスを提供します。
+  sidebarlinks:
+  - title: すべて
+    tags: tag_all
+    class: active
+  - title: はじめに
+    tags: tag_get_started
+  - title: システムハードウェア
+    tags: tag_storage_hardware
+  - title: システムのアップグレード
+    tags: tag_storage_upgrade
+  tiles:
+  - title: ONTAPハードウェアシステムの詳細
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: ONTAPハードウェアシステムについて説明します。
+    tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
+  - title: インストールとメンテナンス
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/index.html"
+    summary: ONTAPハードウェアシステムの設置とメンテナンスを行います。
+    tags: tag_all, tag_storage_hardware
+  - title: アップグレード
+    icon: "./media/upgrade.png"
+    url: "../ontap-systems-upgrade/index.html"
+    summary: ONTAPハードウェアシステムをアップグレードします。
+    tags: tag_all, tag_storage_upgrade
+  - title: クラスタとストレージスイッチ
+    icon: "./media/switch.png"
+    url: "../ontap-systems-switches/index.html"
+    summary: クラスタスイッチとストレージスイッチを設置、アップグレード、および保守します。
+    tags: tag_all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: "../ontap-metrocluster/index.html"
+    summary: MetroCluster 構成をインストールおよびアップグレードまたは拡張し、ディザスタリカバリを実行する。
+    tags: tag_all, tag_storage_upgrade
