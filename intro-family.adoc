@@ -25,7 +25,9 @@ NVMeベースのAFF システムは、仮想環境向けに構築された堅牢
 
 ハイパフォーマンス、低レイテンシ、信頼性を必要とするVDIやデータベースなど、さまざまなワークロードに対応できるオールフラッシュFAS 構成は、ビジネスクリティカルなアプリケーションに最適です。
 
-https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["AFF Aシリーズのデータシートをご覧ください"^] および https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["AFF Cシリーズのデータシートをご覧ください"^]。
+* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["AFF Aシリーズのデータシートを読む"^]
+* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["AFF Cシリーズのデータシートを読む"^]
+
 
 
 
@@ -33,7 +35,15 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["AFF A
 
 NetAppオールフラッシュSANアレイ（ASA）は、SAN専用のシンプルなエクスペリエンスを提供し、FCPまたはiSCSIプロトコルを使用して、エンタープライズのミッションクリティカルなデータベースやその他のSANワークロードに継続的なデータ可用性を提供します。
 
-https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["ASAのデータシートを読む"^]
+.ASA r2システム
+新しいNetApp ASA R2システム（ASA A1K、ASA A70、およびASA A90）は、ハードウェアとソフトウェアの統合ソリューションを提供し、SANのみのお客様のニーズに合わせてシンプルな操作性を実現します。
+
+ASA R2システムでは、ONTAPソフトウェアとSystem Managerが合理化され、SAN環境でサポートされていない機能が可視化されます。
+
+* https://www.netapp.com/data-storage/all-flash-san-storage-array/["ASAのデータシートを読む"^]
+* 詳細については、link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["新しいASA R2システムとASAシステムの比較"^]
+* ASAおよびASA R2システムの構成の完全なサポートと制限事項については、を参照してください。 https://hwu.netapp.com/["NetApp Hardware Universe"^]
+
 
 
 
@@ -43,7 +53,7 @@ FAS ハイブリッドフラッシュシステムは、SANとNASの共有/統合
 
 FAS ハイブリッドフラッシュシステムは、可用性に優れたハードウェアを搭載し、フラッシュと従来の回転式ドライブの理想的な組み合わせを組み合わせることで、ワークロードのニーズに対費用効果の高い方法で応えることができます。バックアップと保持、一般的なビジネスアプリケーションの統合、分散コンテンツに最適です。
 
-https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["FAS のデータシートをご覧ください"^]
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["FASのデータシートを読む"^]
 
 
 
@@ -53,7 +63,7 @@ ONTAPのMetroCluster機能を使用して構成されたONTAPのハードウェ�
 
 MetroCluster は、標準的なデータレプリケーションソリューションとは異なり、ホスト環境とシームレスに連携して継続的なデータ可用性を実現します。複雑なフェイルオーバースクリプトを作成して管理する必要はありません。
 
-https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["MetroCluster の詳細については、こちらをご覧ください"^]
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["MetroClusterの詳細はこちら"^]
 
 
 
@@ -61,13 +71,10 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["MetroCluster の�
 
 ONTAPデータ管理ソフトウェアは、ONTAPハードウェアシステムに搭載されるクラスタ化されたストレージソフトウェアです。ONTAPソフトウェアは、あらゆるタイプのハードウェアノードを最大24個サポートするグローバルネームスペースを備えており、ユニファイドストレージ（ブロックおよびファイル）をサポートしているため、ONTAP System Manager GUIを使用して管理できるワークロードを大幅に統合できます。
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["ONTAP のデータシートをご覧ください"^]。
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["ONTAPソフトウェアのデータシートを読む"^]
 
-
-
-== を参照してください。
-
-* https://docs.netapp.com/us-en/ontap-systems/index.html["AFF およびFAS のドキュメント"^]
+.を参照してください。
+* https://docs.netapp.com/us-en/ontap-systems/index.html["ONTAPハードウェアシステムのドキュメント"^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html["MetroCluster のドキュメント"^]
 * https://docs.netapp.com/us-en/ontap/index.html["ONTAP のドキュメント"^]
 

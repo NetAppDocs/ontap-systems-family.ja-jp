@@ -6,17 +6,10 @@
   <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">FAS ハイブリッドフラッシュシステム</block>
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">FAS ハイブリッドフラッシュシステムは、SANとNASの共有/統合環境向けに構築されたハードウェアプラットフォームで、充実のデータ管理と容易なクラウド接続を必要とします。</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">FAS ハイブリッドフラッシュシステムは、可用性に優れたハードウェアを搭載し、フラッシュと従来の回転式ドライブの理想的な組み合わせを組み合わせることで、ワークロードのニーズに対費用効果の高い方法で応えることができます。バックアップと保持、一般的なビジネスアプリケーションの統合、分散コンテンツに最適です。</block>
-  <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">FAS のデータシートをご覧ください</block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">MetroCluster は、標準的なデータレプリケーションソリューションとは異なり、ホスト環境とシームレスに連携して継続的なデータ可用性を実現します。複雑なフェイルオーバースクリプトを作成して管理する必要はありません。</block>
-  <block id="f8e19c375690f5b7624b2e50f0cd6854" category="inline-link">MetroCluster の詳細については、こちらをご覧ください</block>
-  <block id="12ec083d4ad98cfdd42aca66fcc37845" category="paragraph"><block ref="12ec083d4ad98cfdd42aca66fcc37845" category="inline-link-rx"></block></block>
   <block id="efd44736fee0b29831bc101f834f9425" category="section-title">ONTAP ソフトウェア</block>
-  <block id="ac50b55c541887c8213257b7fa8011db" category="inline-link">ONTAP のデータシートをご覧ください</block>
-  <block id="b29519a2297404339371dd4904a14b94" category="paragraph"><block ref="c8c2c80c2dc2440549184e1ee06ef9aa" category="inline-link-rx"></block>。</block>
   <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="section-title">を参照してください。</block>
-  <block id="65b864ff591bf877a83ed36959ac28d4" category="inline-link">AFF およびFAS のドキュメント</block>
-  <block id="d949f76268d682721c7feb224c7ce172" category="list-text"><block ref="d949f76268d682721c7feb224c7ce172" category="inline-link-rx"></block></block>
   <block id="af8a69aa12393a4d9b6992e884f1c919" category="inline-link">MetroCluster のドキュメント</block>
   <block id="33123ba2709c3a1044173954d31c8bda" category="list-text"><block ref="33123ba2709c3a1044173954d31c8bda" category="inline-link-rx"></block></block>
   <block id="c8db31d0d38042ea4fd10dd6bdfd347e" category="inline-link">ONTAP のドキュメント</block>
@@ -42,10 +35,6 @@
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">クラスタスイッチとストレージスイッチを設置、アップグレード、および保守します。</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">MetroCluster 構成をインストールおよびアップグレードまたは拡張し、ディザスタリカバリを実行する。</block>
-  <block id="89392af5eda25c825021d432ddf93588" category="inline-link">AFF Aシリーズのデータシートをご覧ください</block>
-  <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">AFF Cシリーズのデータシートをご覧ください</block>
-  <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> および<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>。</block>
-  <block id="fac33d262d5cecdc4766c37ba6f9f935" category="paragraph"><block ref="fac33d262d5cecdc4766c37ba6f9f935" category="inline-link-rx"></block></block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -60,16 +49,40 @@
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">ネットアップのONTAPハードウェアシステムには、オールフラッシュ（AFF）構成とハイブリッドフラッシュとHDDのみ（FAS）構成があり、パフォーマンス、容量、コストの各要件に最適なストレージメディアの組み合わせを選択できます。</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">さまざまなモデルを組み合わせてクラスタを構成し、同じストレージシステムで混在ワークロードを実行したり、最新テクノロジを搭載した新世代のストレージを追加して環境を構築したりできます。</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetAppオールフラッシュSANアレイ（ASA）は、SAN専用のシンプルなエクスペリエンスを提供し、FCPまたはiSCSIプロトコルを使用して、エンタープライズのミッションクリティカルなデータベースやその他のSANワークロードに継続的なデータ可用性を提供します。</block>
-  <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">ASAのデータシートを読む</block>
-  <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
   <block id="09cbbac77d0ef506dcbd294171cc66dc" category="paragraph">ONTAPのMetroCluster機能を使用して構成されたONTAPのハードウェアストレージシステムは、アレイベースのクラスタリングと同期レプリケーションを組み合わせて、継続的な可用性を実現し、データ損失をゼロにする解決策を提供します。MetroCluster 構成では、ミッションクリティカルなデータをトランザクション単位で瞬時に複製し、アプリケーションやデータへの中断のないアクセスを実現します。</block>
   <block id="f5663fc0d37f754e24c01ce5dd001d5f" category="paragraph">ONTAPデータ管理ソフトウェアは、ONTAPハードウェアシステムに搭載されるクラスタ化されたストレージソフトウェアです。ONTAPソフトウェアは、あらゆるタイプのハードウェアノードを最大24個サポートするグローバルネームスペースを備えており、ユニファイドストレージ（ブロックおよびファイル）をサポートしているため、ONTAP System Manager GUIを使用して管理できるワークロードを大幅に統合できます。</block>
   <block id="1f90335d79116dc043d2eb600c05f7dd" category="summary">ネットアップのONTAP AFF、FAS、ASAハードウェアストレージシステムは、シンプルで管理しやすい、エンタープライズクラスの信頼性を備えたオールフラッシュストレージを必要とする広帯域アプリケーション向けに、ストレージとアプリケーションデータの管理サービスを提供します。</block>
   <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="doc">ONTAPハードウェアシステムのドキュメント</block>
   <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">ONTAPハードウェアシステムについて説明します。</block>
-  <block id="802513659955a80d18b4529f94a6fd08" category="sidebar">インストールとメンテナンス</block>
-  <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">ONTAPハードウェアシステムの設置とメンテナンスを行います。</block>
-  <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">アップグレード</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">ONTAPハードウェアシステムをアップグレードします。</block>
   <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">オールフラッシュSANアレイ（ASA）システム</block>
+  <block id="a6ebe77e11a2ed7374acaf9354f56274" category="inline-link">AFF Aシリーズのデータシートを読む</block>
+  <block id="86764b58cbaaccdc83e278793e95e301" category="list-text"><block ref="86764b58cbaaccdc83e278793e95e301" category="inline-link-rx"></block></block>
+  <block id="ac554de1abd48f1d4e9d0b803b89b6b2" category="inline-link">AFF Cシリーズのデータシートを読む</block>
+  <block id="0baf72dac72f2e22e58f0abc0fa72799" category="list-text"><block ref="0baf72dac72f2e22e58f0abc0fa72799" category="inline-link-rx"></block></block>
+  <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">ASA r2システム</block>
+  <block id="0ab1a7883d0399cbaf77a2e38633a6ea" category="paragraph">新しいNetApp ASA R2システム（ASA A1K、ASA A70、およびASA A90）は、ハードウェアとソフトウェアの統合ソリューションを提供し、SANのみのお客様のニーズに合わせてシンプルな操作性を実現します。</block>
+  <block id="6f3d0a4543e47707e06e149c91eb5fdd" category="paragraph">ASA R2システムでは、ONTAPソフトウェアとSystem Managerが合理化され、SAN環境でサポートされていない機能が可視化されます。</block>
+  <block id="bc585fd3bb77a81c83d188dc9046556e" category="inline-link">ASAのデータシートを読む</block>
+  <block id="7a876ada0a90e5a61dfa89b62a3504c3" category="list-text"><block ref="7a876ada0a90e5a61dfa89b62a3504c3" category="inline-link-rx"></block></block>
+  <block id="3cf42084274355921caa718c1294f55d" category="inline-link-macro">新しいASA R2システムとASAシステムの比較</block>
+  <block id="783b26e83ca5758a4e3f7d5064ab895f" category="list-text">詳細については、<block ref="4fb12820a3f220b3942114edd9f55791" category="inline-link-macro-rx"></block></block>
+  <block id="e5e09031843479ef9ef8cbbd4c2f404c" category="inline-link">NetApp Hardware Universe</block>
+  <block id="c2040c0e10f6d53403a0b1509ae5c9aa" category="list-text">ASAおよびASA R2システムの構成の完全なサポートと制限事項については、を参照してください。<block ref="bb9c67b5a4c15a85b5e6aa6c9afd0285" category="inline-link-rx"></block></block>
+  <block id="acf507a3ae5ebfd2f3cabb186667801d" category="inline-link">FASのデータシートを読む</block>
+  <block id="8469b2ef88f6cdd582299050db34afcd" category="paragraph"><block ref="8469b2ef88f6cdd582299050db34afcd" category="inline-link-rx"></block></block>
+  <block id="8154432bf2e5d56a941b669e6d519e84" category="inline-link">MetroClusterの詳細はこちら</block>
+  <block id="4afbd6676439611f5218628ce8029c8c" category="paragraph"><block ref="4afbd6676439611f5218628ce8029c8c" category="inline-link-rx"></block></block>
+  <block id="b485702592e0498441691e048f6de254" category="inline-link">ONTAPソフトウェアのデータシートを読む</block>
+  <block id="a6866cb5f6ba1f0846112dff240434fb" category="paragraph"><block ref="a6866cb5f6ba1f0846112dff240434fb" category="inline-link-rx"></block></block>
+  <block id="b00c4b4112816929de0eb8a79af19e7f" category="inline-link">ONTAPハードウェアシステムのドキュメント</block>
+  <block id="8272024ec9920ab1aa65d02ba8144574" category="list-text"><block ref="8272024ec9920ab1aa65d02ba8144574" category="inline-link-rx"></block></block>
+  <block id="f3585daa539c5917b4fedd0eb7efb3f2" category="sidebar">AFF システム</block>
+  <block id="1506cda28c07c10192d406e1db57812e" category="sidebar">AFFシステムをインストールして保守します。</block>
+  <block id="6476573ba5b973ad8ea01c57f5b30267" category="sidebar">ASAシステム</block>
+  <block id="b2a7c20a808912eb755b7a188e7bda5a" category="sidebar">ASAシステムをインストールして保守します。</block>
+  <block id="d5d4923aa83e46af2152de920946ba41" category="sidebar">FASシステム</block>
+  <block id="e97842d9580e37ddd15a6e4ac02f92b0" category="sidebar">FASシステムをインストールして保守します。</block>
+  <block id="c06e33eeff899719a660389c287d9b14" category="sidebar">ASA R2システムをインストールして使用します。</block>
+  <block id="b1e8d525b133e89e64ed87c6c7291779" category="sidebar">ONTAPハードウェアシステムのアップグレード</block>
 </blocks>
