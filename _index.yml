@@ -19,22 +19,10 @@ product-family:
     url: intro-family.html
     summary: ONTAPハードウェアシステムについて説明します。
     tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
-  - title: AFF システム
+  - title: ONTAPハードウェアシステムの設置とメンテナンス
     icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/aff-landing/index.html"
-    summary: AFFシステムをインストールして保守します。
-  - title: ASAシステム
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/allsan-landing/index.html"
-    summary: ASAシステムをインストールして保守します。
-  - title: FASシステム
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/fas/index.html"
-    summary: FASシステムをインストールして保守します。
-  - title: ASA r2システム
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/asa-r2/index.html"
-    summary: ASA R2システムをインストールして使用します。
+    url: "../ontap-systems/index.html"
+    summary: ONTAPハードウェアシステムの設置と保守
     tags: tag_all, tag_storage_hardware
   - title: ONTAPハードウェアシステムのアップグレード
     icon: "./media/upgrade.png"
