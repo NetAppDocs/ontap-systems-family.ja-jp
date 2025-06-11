@@ -25,7 +25,7 @@ NVMeベースのAFF システムは、仮想環境向けに構築された堅牢
 
 ハイパフォーマンス、低レイテンシ、信頼性を必要とするVDIやデータベースなど、さまざまなワークロードに対応できるオールフラッシュFAS 構成は、ビジネスクリティカルなアプリケーションに最適です。
 
-* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["AFF Aシリーズのデータシートを読む"^]
+* https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf["AFF Aシリーズのデータシートを読む"^]
 * https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["AFF Cシリーズのデータシートを読む"^]
 
 
