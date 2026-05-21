@@ -50,7 +50,7 @@ NetAppオールフラッシュSANアレイ（ASA）は、SAN専用のシンプ�
 
 ASA R2システムでは、ONTAPソフトウェアとSystem Managerが合理化され、SAN環境でサポートされていない機能が可視化されます。
 
-* https://www.netapp.com/data-storage/all-flash-san-storage-array/["ASAのデータシートを読む"^]
+* https://www.netapp.com/pdf.html?item=/media/85736-ds-4254-asa.pdf["ASAのデータシートを読む"^]
 * 詳細については、link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["新しいASA R2システムとASAシステムの比較"^]
 * ASAおよびASA R2システムの構成の完全なサポートと制限事項については、を参照してください。 https://hwu.netapp.com/["NetApp Hardware Universe"^]
 
