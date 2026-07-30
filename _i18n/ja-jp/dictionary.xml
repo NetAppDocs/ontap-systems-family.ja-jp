@@ -35,7 +35,6 @@
   <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">オールフラッシュSANアレイ（ASA）システム</block>
   <block id="a6ebe77e11a2ed7374acaf9354f56274" category="inline-link">AFF Aシリーズのデータシートを読む</block>
   <block id="ac554de1abd48f1d4e9d0b803b89b6b2" category="inline-link">AFF Cシリーズのデータシートを読む</block>
-  <block id="0baf72dac72f2e22e58f0abc0fa72799" category="list-text"><block ref="0baf72dac72f2e22e58f0abc0fa72799" category="inline-link-rx"></block></block>
   <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">ASA r2システム</block>
   <block id="6f3d0a4543e47707e06e149c91eb5fdd" category="paragraph">ASA R2システムでは、ONTAPソフトウェアとSystem Managerが合理化され、SAN環境でサポートされていない機能が可視化されます。</block>
   <block id="bc585fd3bb77a81c83d188dc9046556e" category="inline-link">ASAのデータシートを読む</block>
@@ -48,7 +47,6 @@
   <block id="8154432bf2e5d56a941b669e6d519e84" category="inline-link">MetroClusterの詳細はこちら</block>
   <block id="4afbd6676439611f5218628ce8029c8c" category="paragraph"><block ref="4afbd6676439611f5218628ce8029c8c" category="inline-link-rx"></block></block>
   <block id="b485702592e0498441691e048f6de254" category="inline-link">ONTAPソフトウェアのデータシートを読む</block>
-  <block id="a6866cb5f6ba1f0846112dff240434fb" category="paragraph"><block ref="a6866cb5f6ba1f0846112dff240434fb" category="inline-link-rx"></block></block>
   <block id="b00c4b4112816929de0eb8a79af19e7f" category="inline-link">ONTAPハードウェアシステムのドキュメント</block>
   <block id="8272024ec9920ab1aa65d02ba8144574" category="list-text"><block ref="8272024ec9920ab1aa65d02ba8144574" category="inline-link-rx"></block></block>
   <block id="b1e8d525b133e89e64ed87c6c7291779" category="sidebar">ONTAPハードウェアシステムのアップグレード</block>
@@ -65,4 +63,6 @@
   <block id="fe1c154e079a54d2e08bfd97c768549d" category="paragraph">新しいNetApp ASA r2 システム (ASA A1K、 ASA A70、 ASA A90、 ASA A20、 ASA A30、 ASA A50、C30) は、SAN のみを利用するお客様のニーズに合わせた簡素化されたエクスペリエンスを実現する、統合されたハードウェアおよびソフトウェア ソリューションを提供します。</block>
   <block id="8a7195a48274621b19dc4fd921470095" category="sidebar">NetApp のONTAPハードウェア ストレージ システムは、シンプルで管理しやすく、エンタープライズ グレードの信頼性を備えたオールフラッシュ ストレージを必要とする高帯域幅アプリケーション向けに、ストレージおよびアプリケーション データ管理サービスを提供します。</block>
   <block id="37b7020ecd07f5ae16789de6b8a5395e" category="list-text"><block ref="37b7020ecd07f5ae16789de6b8a5395e" category="inline-link-rx"></block></block>
+  <block id="7c251b1e28698b513021e1b727685040" category="list-text"><block ref="7c251b1e28698b513021e1b727685040" category="inline-link-rx"></block></block>
+  <block id="b2558c5ac3dbda5450029ae825bdef54" category="paragraph"><block ref="b2558c5ac3dbda5450029ae825bdef54" category="inline-link-rx"></block></block>
 </blocks>

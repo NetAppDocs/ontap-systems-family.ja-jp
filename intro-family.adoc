@@ -19,6 +19,7 @@ NetApp のONTAPハードウェア システムは、オールフラッシュ、�
 
 
 
+[[all-flash-fas-aff-systems]]
 == オールフラッシュFAS （AFF ）システム
 
 NVMeベースのAFF システムは、仮想環境向けに構築された堅牢なスケールアウトプラットフォームであり、独立したシステムとして導入することも、NetApp ONTAP 構成のハイパフォーマンス階層として導入することもできます。
@@ -26,11 +27,12 @@ NVMeベースのAFF システムは、仮想環境向けに構築された堅牢
 ハイパフォーマンス、低レイテンシ、信頼性を必要とするVDIやデータベースなど、さまざまなワークロードに対応できるオールフラッシュFAS 構成は、ビジネスクリティカルなアプリケーションに最適です。
 
 * https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf["AFF Aシリーズのデータシートを読む"^]
-* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["AFF Cシリーズのデータシートを読む"^]
+* https://www.netapp.com/pdf.html?item=/media/81583-ds-4240-aff-c-series.pdf["AFF Cシリーズのデータシートを読む"^]
 
 
 
 
+[[afx]]
 == AFX
 
 NetApp AFX は、並列ファイルシステムとニッチな AI ストレージソリューションのパフォーマンス上の利点をすべて、シンプルかつ安全で完全に統合されたエンタープライズグレードのプラットフォーム上で実現する、エンタープライズグレードの分散型オールフラッシュ ストレージ システムです。
@@ -41,6 +43,7 @@ NetApp AFX は、並列ファイルシステムとニッチな AI ストレー�
 
 
 
+[[all-flash-san-array-asa-systems]]
 == オールフラッシュSANアレイ（ASA）システム
 
 NetAppオールフラッシュSANアレイ（ASA）は、SAN専用のシンプルなエクスペリエンスを提供し、FCPまたはiSCSIプロトコルを使用して、エンタープライズのミッションクリティカルなデータベースやその他のSANワークロードに継続的なデータ可用性を提供します。
@@ -57,6 +60,7 @@ ASA R2システムでは、ONTAPソフトウェアとSystem Managerが合理化�
 
 
 
+[[fas-hybrid-flash-systems]]
 == FAS ハイブリッドフラッシュシステム
 
 FAS ハイブリッドフラッシュシステムは、SANとNASの共有/統合環境向けに構築されたハードウェアプラットフォームで、充実のデータ管理と容易なクラウド接続を必要とします。
@@ -67,6 +71,7 @@ https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["FASのデータシ
 
 
 
+[[metrocluster]]
 == MetroCluster
 
 ONTAPのMetroCluster機能を使用して構成されたONTAPのハードウェアストレージシステムは、アレイベースのクラスタリングと同期レプリケーションを組み合わせて、継続的な可用性を実現し、データ損失をゼロにする解決策を提供します。MetroCluster 構成では、ミッションクリティカルなデータをトランザクション単位で瞬時に複製し、アプリケーションやデータへの中断のないアクセスを実現します。
@@ -77,11 +82,12 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["MetroClusterの詳
 
 
 
+[[ontap-software]]
 == ONTAP ソフトウェア
 
 ONTAPデータ管理ソフトウェアは、ONTAPハードウェアシステムに搭載されるクラスタ化されたストレージソフトウェアです。ONTAPソフトウェアは、あらゆるタイプのハードウェアノードを最大24個サポートするグローバルネームスペースを備えており、ユニファイドストレージ（ブロックおよびファイル）をサポートしているため、ONTAP System Manager GUIを使用して管理できるワークロードを大幅に統合できます。
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["ONTAPソフトウェアのデータシートを読む"^]
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231-ontap-unified-data-storage-management.pdf["ONTAPソフトウェアのデータシートを読む"^]
 
 .を参照してください。
 * https://docs.netapp.com/us-en/ontap-systems/index.html["ONTAPハードウェアシステムのドキュメント"^]
